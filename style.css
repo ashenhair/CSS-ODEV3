@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container {
+    width: 1000px;
+}
+
+.left-bar {
+    widows: 200px;
+}
+
+.content {
+    width: 800px;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.box {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-right: 10px; 
+    /* margin-bottom:10px; */
+    float: left;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color:green
+}
